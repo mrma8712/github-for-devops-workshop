@@ -19,7 +19,7 @@ git remote add origin https://github.com/LondheShubham153/github-for-devops-work
 git remote -v
 git status
  
-git remote set-url origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+git remote set-url origin https://PASTE PAT TOKEN@github.com/LondheShubham153/github-for-devops-workshop.git
 clear
 git remote -v
 git push origin master
